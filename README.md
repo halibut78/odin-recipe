@@ -1,3 +1,3 @@
-# odin-recipe
+# odin-recipes
 Recipe collection
 collection of recipes
